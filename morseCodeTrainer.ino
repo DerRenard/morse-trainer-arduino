@@ -2,6 +2,7 @@
 ********Copyrighted by Yan Sivak**********
 *************aka DerRenard****************
 **************@ 8.26.2025*****************
+**************@ 8.31.2025*****************
 *******https://github.com/DerRenard*******
 ******************************************/
 
@@ -16,10 +17,10 @@
 #include "tools.h"
 
 #define BUTTON_DOT 5
-#define BUTTON_DASH 2
+#define BUTTON_DASH 4
 #define BUTTON_CONFIRM 3
-#define BUTTON_CLEAR 4
-#define BUTTON_LAYOUT 6
+#define BUTTON_CLEAR 6
+#define BUTTON_LAYOUT 2
 #define BUTTON_MODE 7
 #define LED_OUTPUT 8
 #define BUZZER_OUTPUT 9
